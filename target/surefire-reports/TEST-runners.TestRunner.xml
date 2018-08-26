@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="39" failures="0" name="runners.TestRunner" time="12.667" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin"/>
+    <property name="java.vm.version" value="25.152-b16"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Users\J772AHE\eclipse-workspace\retailwebtests"/>
+    <property name="java.runtime.version" value="1.8.0_152-b16"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="D:\Users\J772AHE\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\Users\J772AHE\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2990005480777433437.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_152\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\UCRT\;C:\Program Files\Intel\UCRT\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Android;C:\Windows\System32;C:\ant\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Git\cmd;D:\Python27;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\UCRT\;C:\Program Files\Intel\UCRT\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Android;C:\Windows\System32;C:\ant\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Git\cmd;D:\Users\J772AHE\AppData\Local\Programs\Fiddler;C:\Program Files\Java\jdk1.8.0_152;D:\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;D:\Users\J772AHE\AppData\Local\atom\bin;D:\Apps\eclipse-java-oxygen-1a-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="D:\Users\J772AHE"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="J772AHE"/>
+    <property name="java.class.path" value="/D:/Apps/eclipse-java-oxygen-1a-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_152\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_152"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Users\J772AHE\eclipse-workspace\retailwebtests\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="Given User has selected product &quot;Suit&quot; from the custom made section in suitsupply website" time="0.017"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="When User provides fabric details as &quot;Grey Plain Wool;586.861/122&quot;" time="0.001"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides fit details as &quot;Lazio - Single Breasted;Brescia&quot;" time="0.001"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides turn up details as &quot;With Turn Up&quot;" time="0.002"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides waistband details as &quot;Belt Loops&quot;" time="0"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides waistcoat details as &quot;Capetown&quot;" time="0"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides additional trousers detail as &quot;No&quot;" time="0.001"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="And User provides size details as &quot;Regular;46;Regular;44&quot;" time="0"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="Then User is able to add the product to bag" time="0.006"/>
+  <testcase classname="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" name="| Suit | Grey Plain Wool;586.861/122 | Lazio - Single Breasted;Brescia | With Turn Up | Belt Loops | Capetown | No | Regular;46;Regular;44 |" time="1.491"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="Given User has selected product &quot;Shirt&quot; from the custom made section in suitsupply website" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="When User provides fabric details as &quot;Blue Linen Stripe;367.2&quot;" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="And User provides fit details as &quot;Slim Fit&quot;" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="And User provides collar details as &quot;Classic&quot;" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="And User provides cuff details as &quot;Single squared&quot;" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="And User provides monogram details as &quot;ON FRONT;DM&quot;" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="And User provides size details as &quot;Long;39-7&quot;" time="0.002"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="Then User is able to add the product to bag" time="0"/>
+  <testcase classname="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" name="| Shirt | Blue Linen Stripe;367.2 | Slim Fit | Classic | Single squared | Capetown | ON FRONT;DM | Long;39-7 |" time="2.743"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="Given User has selected product &quot;Trousers&quot; from the custom made section in suitsupply website" time="0.009"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="When User provides fabric details as &quot;Light Brown Pure Cotton;1982/919&quot;" time="0"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="And User provides fit details as &quot;Washington&quot;" time="0.009"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="And User provides turn up details as &quot;Without Turn Up&quot;" time="0"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="And User provides waistband details as &quot;Side Adjusters&quot;" time="0"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="And User provides size details as &quot;Long;90&quot;" time="0"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="Then User is able to add the product to bag" time="0"/>
+  <testcase classname="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" name="| Trousers | Light Brown Pure Cotton;1982/919 | Washington | Without Turn Up | Side Adjusters | Long;90 |" time="2.698"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="Given User has selected product &quot;Jacket&quot; from the custom made section in suitsupply website" time="0"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="When User provides fabric details as &quot;Grey Faux Uni Wool;540.901/4&quot;" time="0.001"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="And User provides fit details as &quot;Napoli - Single Breasted&quot;" time="0"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="And User provides size details as &quot;Regular;48&quot;" time="0"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="Then User is able to add the product to bag" time="0"/>
+  <testcase classname="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" name="| Jacket | Grey Faux Uni Wool;540.901/4 | Napoli - Single Breasted | Regular;48 |" time="2.857"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="Given User has selected product &quot;Waistcoat&quot; from the custom made section in suitsupply website" time="0.001"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="When User provides fabric details as &quot;Blue Plain Wool;595.201/4&quot;" time="0"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="And User provides fit details as &quot;Ferrara&quot;" time="0"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="And User provides size details as &quot;Regular;42&quot;" time="0"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="Then User is able to add the product to bag" time="0"/>
+  <testcase classname="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" name="| Waistcoat | Blue Plain Wool;595.201/4 | Ferrara | Regular;42 |" time="2.828"/>
+</testsuite>

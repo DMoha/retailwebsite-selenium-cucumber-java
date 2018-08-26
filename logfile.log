@@ -1,0 +1,199 @@
+2018-08-26 14:01:21,923 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 14:01:28,725 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:01:29,457 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:01:29,700 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:01:31,540 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:01:36,803 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:01:42,036 INFO  [Log] Clicked on Jacket Fit section in product details page
+2018-08-26 14:01:47,209 INFO  [Log] Clicked on Trousers Fit section in product details page
+2018-08-26 14:01:52,382 INFO  [Log] Clicked on Turn Up section in product details page
+2018-08-26 14:01:57,526 INFO  [Log] Clicked on Waistband section in product details page
+2018-08-26 14:02:02,769 INFO  [Log] Clicked on Waistcoat section in product details page
+2018-08-26 14:02:03,552 INFO  [Log] Clicked on Skip Additional Trouser section in product details page
+2018-08-26 14:02:08,908 INFO  [Log] Clicked on Trouser size section in product details page
+2018-08-26 14:02:14,162 INFO  [Log] Clicked on Jacket size section in product details page
+2018-08-26 14:02:14,430 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:02:15,850 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:02:18,748 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:02:23,810 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:02:30,005 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:02:30,734 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:02:31,000 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:02:32,826 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:02:38,107 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:02:43,317 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:02:48,522 INFO  [Log] Clicked on Collar section in product details page
+2018-08-26 14:02:53,730 INFO  [Log] Clicked on Cuff section in product details page
+2018-08-26 14:02:58,904 INFO  [Log] Clicked on Monogram section in product details page
+2018-08-26 14:02:59,118 INFO  [Log] <EnterText on Monogram initials section in product details page as DM>
+2018-08-26 14:02:59,301 INFO  [Log] Clicked on Add Monogram in product details page
+2018-08-26 14:03:04,599 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:03:05,012 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:03:06,820 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:03:09,811 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:03:15,236 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:03:22,249 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:03:22,973 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:03:23,186 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:03:25,727 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:03:30,955 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:03:36,134 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:04:16,864 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:04:21,944 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:04:28,850 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:04:29,578 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:04:29,810 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:04:31,939 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:04:37,184 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:04:42,370 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:04:47,616 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:04:47,949 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:04:49,284 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:04:52,035 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:04:56,969 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:05:03,995 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:05:04,764 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:05:04,983 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:05:07,269 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:05:12,472 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:05:17,673 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:05:22,920 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:05:23,329 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:05:25,133 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:05:28,113 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:09:32,133 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:09:38,910 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:09:39,642 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:09:39,914 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:09:41,962 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:09:47,213 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:09:52,397 INFO  [Log] Clicked on Jacket Fit section in product details page
+2018-08-26 14:09:57,611 INFO  [Log] Clicked on Trousers Fit section in product details page
+2018-08-26 14:10:02,796 INFO  [Log] Clicked on Turn Up section in product details page
+2018-08-26 14:10:07,944 INFO  [Log] Clicked on Waistband section in product details page
+2018-08-26 14:10:13,175 INFO  [Log] Clicked on Waistcoat section in product details page
+2018-08-26 14:10:13,929 INFO  [Log] Clicked on Skip Additional Trouser section in product details page
+2018-08-26 14:10:19,225 INFO  [Log] Clicked on Trouser size section in product details page
+2018-08-26 14:10:24,464 INFO  [Log] Clicked on Jacket size section in product details page
+2018-08-26 14:10:24,799 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:10:26,543 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:10:29,486 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:10:34,366 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:10:41,724 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:10:42,448 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:10:42,670 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:10:44,355 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:10:49,630 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:10:54,807 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:10:59,991 INFO  [Log] Clicked on Collar section in product details page
+2018-08-26 14:11:05,183 INFO  [Log] Clicked on Cuff section in product details page
+2018-08-26 14:11:10,372 INFO  [Log] Clicked on Monogram section in product details page
+2018-08-26 14:11:10,569 INFO  [Log] <EnterText on Monogram initials section in product details page as DM>
+2018-08-26 14:11:10,789 INFO  [Log] Clicked on Add Monogram in product details page
+2018-08-26 14:11:16,057 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:11:16,607 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:11:19,022 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:11:21,722 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:11:26,591 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:11:33,730 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:11:34,473 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:11:34,763 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:11:36,857 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:11:42,027 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:11:47,255 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:11:52,472 INFO  [Log] Clicked on Turn Up section in product details page
+2018-08-26 14:11:57,685 INFO  [Log] Clicked on Waistband section in product details page
+2018-08-26 14:12:02,907 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:12:03,248 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:12:05,517 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:12:08,437 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:12:13,370 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:12:19,902 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:12:20,626 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:12:20,841 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:12:22,549 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:12:27,794 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:12:32,960 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:12:40,132 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:12:40,492 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:12:45,535 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:12:46,393 INFO  [Log] *********END TEST CASE*********
+2018-08-26 14:12:51,625 INFO  [Log] *********START TEST CASE*********
+2018-08-26 14:12:58,732 INFO  [Log] Clicked on Close Cookies
+2018-08-26 14:12:59,564 INFO  [Log] Clicked on Close Country Verification
+2018-08-26 14:12:59,875 INFO  [Log] Clicked on Custom Made tab in the Home Page
+2018-08-26 14:13:01,865 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab
+2018-08-26 14:13:07,066 INFO  [Log] Clicked on Fabric Selection in product details page
+2018-08-26 14:13:12,331 INFO  [Log] Clicked on Fit section in product details page
+2018-08-26 14:13:18,204 INFO  [Log] Clicked on Size section in product details page
+2018-08-26 14:13:18,517 INFO  [Log] Clicked on Add to Bag button in product details page
+2018-08-26 14:13:19,835 INFO  [Log] Product successfully added to Bag
+2018-08-26 14:13:22,768 INFO  [Log] *********END TEST CASE*********
+2018-08-26 17:26:06,774 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 17:26:13,967 INFO  [Log] Clicked on Close Cookies 
+2018-08-26 17:26:14,751 INFO  [Log] Clicked on Close Country Verification 
+2018-08-26 17:26:15,006 INFO  [Log] Clicked on Custom Made tab in the Home Page 
+2018-08-26 17:26:16,739 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab 
+2018-08-26 17:26:22,035 INFO  [Log] Clicked on Fabric Selection in product details page 
+2018-08-26 17:26:27,222 INFO  [Log] Clicked on Jacket Fit section in product details page 
+2018-08-26 17:26:32,420 INFO  [Log] Clicked on Trousers Fit section in product details page 
+2018-08-26 17:26:37,742 INFO  [Log] Clicked on Turn Up section in product details page 
+2018-08-26 17:26:42,935 INFO  [Log] Clicked on Waistband section in product details page 
+2018-08-26 17:26:48,152 INFO  [Log] Clicked on Waistcoat section in product details page 
+2018-08-26 17:26:48,921 INFO  [Log] Clicked on Skip Additional Trouser section in product details page 
+2018-08-26 17:26:54,242 INFO  [Log] Clicked on Trouser size section in product details page 
+2018-08-26 17:26:59,506 INFO  [Log] Clicked on Jacket size section in product details page 
+2018-08-26 17:26:59,821 INFO  [Log] Clicked on Add to Bag button in product details page 
+2018-08-26 17:27:01,205 INFO  [Log] Product successfully added to Bag 
+2018-08-26 17:27:02,699 INFO  [Log] *********END TEST CASE********* 
+2018-08-26 17:27:08,168 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 17:27:14,704 INFO  [Log] Clicked on Close Cookies 
+2018-08-26 17:27:15,457 INFO  [Log] Clicked on Close Country Verification 
+2018-08-26 17:27:15,709 INFO  [Log] Clicked on Custom Made tab in the Home Page 
+2018-08-26 17:27:21,404 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab 
+2018-08-26 17:27:26,702 INFO  [Log] Clicked on Fabric Selection in product details page 
+2018-08-26 17:27:31,953 INFO  [Log] Clicked on Fit section in product details page 
+2018-08-26 17:27:37,176 INFO  [Log] Clicked on Collar section in product details page 
+2018-08-26 17:27:42,409 INFO  [Log] Clicked on Cuff section in product details page 
+2018-08-26 17:27:47,606 INFO  [Log] Clicked on Monogram section in product details page 
+2018-08-26 17:27:47,792 INFO  [Log] <EnterText on Monogram initials section in product details page as DM> 
+2018-08-26 17:27:47,960 INFO  [Log] Clicked on Add Monogram in product details page 
+2018-08-26 17:27:53,293 INFO  [Log] Clicked on Size section in product details page 
+2018-08-26 17:27:53,800 INFO  [Log] Clicked on Add to Bag button in product details page 
+2018-08-26 17:27:55,761 INFO  [Log] Product successfully added to Bag 
+2018-08-26 17:27:58,505 INFO  [Log] *********END TEST CASE********* 
+2018-08-26 17:28:04,505 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 17:28:11,210 INFO  [Log] Clicked on Close Cookies 
+2018-08-26 17:28:11,982 INFO  [Log] Clicked on Close Country Verification 
+2018-08-26 17:28:12,281 INFO  [Log] Clicked on Custom Made tab in the Home Page 
+2018-08-26 17:28:14,448 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab 
+2018-08-26 17:28:19,832 INFO  [Log] Clicked on Fabric Selection in product details page 
+2018-08-26 17:28:25,280 INFO  [Log] Clicked on Fit section in product details page 
+2018-08-26 17:28:30,528 INFO  [Log] Clicked on Turn Up section in product details page 
+2018-08-26 17:28:35,748 INFO  [Log] Clicked on Waistband section in product details page 
+2018-08-26 17:28:41,061 INFO  [Log] Clicked on Size section in product details page 
+2018-08-26 17:28:41,436 INFO  [Log] Clicked on Add to Bag button in product details page 
+2018-08-26 17:28:43,870 INFO  [Log] Product successfully added to Bag 
+2018-08-26 17:28:46,567 INFO  [Log] *********END TEST CASE********* 
+2018-08-26 17:28:52,722 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 17:29:01,230 INFO  [Log] Clicked on Close Cookies 
+2018-08-26 17:29:02,040 INFO  [Log] Clicked on Close Country Verification 
+2018-08-26 17:29:02,300 INFO  [Log] Clicked on Custom Made tab in the Home Page 
+2018-08-26 17:29:05,072 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab 
+2018-08-26 17:29:10,454 INFO  [Log] Clicked on Fabric Selection in product details page 
+2018-08-26 17:29:15,683 INFO  [Log] Clicked on Fit section in product details page 
+2018-08-26 17:29:21,040 INFO  [Log] Clicked on Size section in product details page 
+2018-08-26 17:29:21,422 INFO  [Log] Clicked on Add to Bag button in product details page 
+2018-08-26 17:29:22,825 INFO  [Log] Product successfully added to Bag 
+2018-08-26 17:29:25,675 INFO  [Log] *********END TEST CASE********* 
+2018-08-26 17:29:31,670 INFO  [Log] *********START TEST CASE********* 
+2018-08-26 17:29:38,119 INFO  [Log] Clicked on Close Cookies 
+2018-08-26 17:29:38,890 INFO  [Log] Clicked on Close Country Verification 
+2018-08-26 17:29:39,172 INFO  [Log] Clicked on Custom Made tab in the Home Page 
+2018-08-26 17:29:41,174 INFO  [Log] Clicked on Product Type sub tab under Custom Made tab 
+2018-08-26 17:29:46,424 INFO  [Log] Clicked on Fabric Selection in product details page 
+2018-08-26 17:29:51,656 INFO  [Log] Clicked on Fit section in product details page 
+2018-08-26 17:29:57,053 INFO  [Log] Clicked on Size section in product details page 
+2018-08-26 17:29:57,453 INFO  [Log] Clicked on Add to Bag button in product details page 
+2018-08-26 17:29:58,874 INFO  [Log] Product successfully added to Bag 
+2018-08-26 17:30:01,702 INFO  [Log] *********END TEST CASE********* 

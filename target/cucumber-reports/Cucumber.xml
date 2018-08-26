@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="242.202829">
+<testcase classname="Custom Made Product details page" name="Successful submision of Product to Checkout Bag for Custom Made Suit" time="63.59271">
+<system-out><![CDATA[Given User has selected product "Suit" from the custom made section in suitsupply website.passed
+When User provides fabric details as "Grey Plain Wool;586.861/122"..........passed
+And User provides fit details as "Lazio - Single Breasted;Brescia"..........passed
+And User provides turn up details as "With Turn Up".........................passed
+And User provides waistband details as "Belt Loops".........................passed
+And User provides waistcoat details as "Capetown"...........................passed
+And User provides additional trousers detail as "No"........................passed
+And User provides size details as "Regular;46;Regular;44"...................passed
+Then User is able to add the product to bag.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Custom Made Product details page" name="Successful submision of Product to Checkout Bag for Custom Made Shirt" time="55.684143">
+<system-out><![CDATA[Given User has selected product "Shirt" from the custom made section in suitsupply website.passed
+When User provides fabric details as "Blue Linen Stripe;367.2"..............passed
+And User provides fit details as "Slim Fit".................................passed
+And User provides collar details as "Classic"...............................passed
+And User provides cuff details as "Single squared"..........................passed
+And User provides monogram details as "ON FRONT;DM".........................passed
+And User provides size details as "Long;39-7"...............................passed
+Then User is able to add the product to bag.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Custom Made Product details page" name="Successful submision of Product to Checkout Bag for Custom Made Trousers" time="47.924583">
+<system-out><![CDATA[Given User has selected product "Trousers" from the custom made section in suitsupply website.passed
+When User provides fabric details as "Light Brown Pure Cotton;1982/919".....passed
+And User provides fit details as "Washington"...............................passed
+And User provides turn up details as "Without Turn Up"......................passed
+And User provides waistband details as "Side Adjusters".....................passed
+And User provides size details as "Long;90".................................passed
+Then User is able to add the product to bag.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Custom Made Product details page" name="Successful submision of Product to Checkout Bag for Custom Made Jacket" time="39.022202">
+<system-out><![CDATA[Given User has selected product "Jacket" from the custom made section in suitsupply website.passed
+When User provides fabric details as "Grey Faux Uni Wool;540.901/4".........passed
+And User provides fit details as "Napoli - Single Breasted".................passed
+And User provides size details as "Regular;48"..............................passed
+Then User is able to add the product to bag.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Custom Made Product details page" name="Successful submision of Product to Checkout Bag for Custom Made Waistcoat" time="35.979191">
+<system-out><![CDATA[Given User has selected product "Waistcoat" from the custom made section in suitsupply website.passed
+When User provides fabric details as "Blue Plain Wool;595.201/4"............passed
+And User provides fit details as "Ferrara"..................................passed
+And User provides size details as "Regular;42"..............................passed
+Then User is able to add the product to bag.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
